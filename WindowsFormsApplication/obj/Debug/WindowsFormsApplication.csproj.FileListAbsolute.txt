@@ -1,0 +1,12 @@
+F:\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
+F:\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+F:\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+F:\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csprojResolveAssemblyReference.cache
+F:\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Login.resources
+F:\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+F:\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csproj.GenerateResource.Cache
+F:\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+F:\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb
+F:\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Main.resources
+F:\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.BAS.Employee.resources
